@@ -44,3 +44,10 @@
 
 
 # print("Hey"+' '+first_name+' '+last_name+' '+"now i know your age is :"+age)
+
+#casting in python
+int_num = 10
+print(float(int_num))
+
+num_int = 11
+print('num_int', num_int)
