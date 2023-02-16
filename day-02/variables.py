@@ -14,3 +14,4 @@ print(day, month,work)
 print(firstname + " " + lastname)
 
 print(type(work))
+print(len(firstname))
